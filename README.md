@@ -1,4 +1,13 @@
-### Hi there 👋
+Hi! I guess I code minecraft mods.
+<br>
+Java is my main language cause minecraft (obviously). Im most experienced in 1.18.x and 1.19.x versions.
+<br>
+Currently, I am working on the [Lifespren](https://github.com/BAVDE1/Lifespren-1.19.2) mod.
+<br><br> 
+![BAVDE1's GitHub stats](https://github-readme-stats.vercel.app/api?username=bavde1&show_icons=true&theme=radical)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bavde1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **BAVDE1/BAVDE1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
